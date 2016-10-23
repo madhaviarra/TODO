@@ -1,0 +1,14 @@
+//please add your test cases here.
+
+Three test cases have been added
+
+1. addTask
+This test adds 3 tasks names Test1, Test2, Test3.
+Test case succeeds if add succeeds
+
+2. duplicateTask
+This test case adds a task by name aboutTest22 twice.
+First one succeeds and the second fails
+
+3. RemoveTask
+This test case removes all the tasks one by one in a loop
